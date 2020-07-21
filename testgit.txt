@@ -1,1 +1,6 @@
 test devops
+mkdir test
+cd test
+git init
+git add file.txt
+git status
